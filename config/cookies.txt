@@ -1,0 +1,2 @@
+﻿# 在此填入抖音 Cookie
+# 获取方式: 浏览器登录抖音 -> F12 -> Network -> Cookie
